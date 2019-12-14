@@ -1,0 +1,14 @@
+baseURL: "https://blog.codeworks.cloud"
+languageCode: "en-us"
+title: "Hugo Novela"
+pygmentsstyle: 'monokai'
+paginate: 6
+social:
+  twitter: "#"
+  github: "#"
+  instagram: "#"
+  linkedin: "#"
+  dribbble: "#"
+  youtube: "#"
+taxonomies:
+  author: authors
