@@ -3,7 +3,7 @@ authors = [""]
 date = 2019-12-14T15:00:00Z
 draft = true
 excerpt = "DevSecOps"
-hero = "/uploads/-76543ew21q.png"
+hero = "/uploads/cnc-laser-cutting-of-metal-modern-industrial-Y9JC5U6.jpg"
 timeToRead = 5
 title = "Codeworks"
 
