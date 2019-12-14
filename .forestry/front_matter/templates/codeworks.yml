@@ -21,4 +21,5 @@ fields:
   name: authors
   label: authors
 pages:
+- content/post/code.md
 - content/post/codeworks.md
