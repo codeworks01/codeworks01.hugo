@@ -1,0 +1,22 @@
+---
+label: Codeworks
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: hero
+  label: hero
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: number
+  name: timeToRead
+  label: timeToRead
+- type: list
+  name: authors
+  label: authors
